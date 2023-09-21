@@ -1,0 +1,43 @@
+body{
+    background-color: #f7ecde;
+    font-family: "PT Sans Caption", sans-serif;
+}
+
+
+h1{
+    font-family: "Pacifico", cursive;
+    font-size: 50px;
+    color: #352e28;
+    isolation: isolate;
+    border-bottom: dashed 1px;
+}
+label{
+    font-weight: 600;
+}
+h2 i{
+    color: #b2ac4a;
+}
+h2{
+    color: #8dc190;
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-submit{
+    background: #d1512d;
+    color: white;
+    border-radius: 6px;
+    border: 1px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
+}
+.btn-submit:hover{
+    background: #bb4120;
+    border-color:#a03315 ;
+}
